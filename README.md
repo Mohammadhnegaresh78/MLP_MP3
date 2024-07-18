@@ -29,7 +29,7 @@ Setup Instructions
 Clone the Repository
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/alirezarezaeei78/Mini_project_3.git
+git clone https://github.com/Mohammadhnegaresh78/MLP_MP3.git
 cd Mini_project_3
 Install Required Packages
 Install the required Python packages using pip:
